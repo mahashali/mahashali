@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/103631772/222950257-fbcdc3cf-9210-42eb-8dc0-22231822dd90.png)
+![image](https://user-images.githubusercontent.com/103631772/222796816-5886531e-bbf7-4f0d-bb7b-e8dfbda5789b.png)
 # 💫 About Me:
 I am a web developer based in somalia who focuses on <br>creating, developing and marketing websites, <br>web applications, graphic design and mobile apps.
 
